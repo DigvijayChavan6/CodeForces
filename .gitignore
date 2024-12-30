@@ -2,7 +2,7 @@
 *.o
 *.out
 *.exe
-*
+
 # Ignore VS Code settings
 .vscode/
 
