@@ -1,0 +1,1 @@
+{"name":"Local: 1Jan_2042_A","url":"/home/digvijay/MyCode/CodeForces/1Jan_2042_A.cpp","tests":[{"id":1735753372321,"input":"4\n5 4\n4 1 2 3 2\n5 10\n4 1 2 3 2\n2 10\n1 1\n3 8\n3 3 3","output":"0\n1\n8\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/digvijay/MyCode/CodeForces/1Jan_2042_A.cpp","group":"local","local":true}
