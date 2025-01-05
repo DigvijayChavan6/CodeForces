@@ -23,10 +23,7 @@ using u32 = unsigned;
 using u128 = unsigned __int128;
 
 void solve() {
-    int n, m;
-    std::cin >> n >> m;
     
-    std::cout << std::max(n, m) + 1 << "\n";
 }
 
 int main() {
