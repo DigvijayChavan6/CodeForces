@@ -1,26 +1,9 @@
-#include<iostream>
-
-using namespace std;
-
-int main(){
-    int t = 0;
-
-    cin >> t;
-
-    while(t--){
-
-    }
-    
-    return 0;
-}
-
-
 #include <bits/stdc++.h>
 
 using i64 = long long;
 using u64 = unsigned long long;
 using u32 = unsigned;
-using u128 = unsigned __int128;
+// using u128 = unsigned __int128;
 
 void solve() {
     
